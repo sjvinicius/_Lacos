@@ -1,0 +1,13 @@
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Lacos\obj\Debug\netcoreapp3.1\_Lacos.csprojAssemblyReference.cache
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Lacos\obj\Debug\netcoreapp3.1\_Lacos.AssemblyInfoInputs.cache
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Lacos\obj\Debug\netcoreapp3.1\_Lacos.AssemblyInfo.cs
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Lacos\obj\Debug\netcoreapp3.1\_Lacos.csproj.CoreCompileInputs.cache
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Lacos\bin\Debug\netcoreapp3.1\_Lacos.exe
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Lacos\bin\Debug\netcoreapp3.1\_Lacos.deps.json
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Lacos\bin\Debug\netcoreapp3.1\_Lacos.runtimeconfig.json
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Lacos\bin\Debug\netcoreapp3.1\_Lacos.runtimeconfig.dev.json
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Lacos\bin\Debug\netcoreapp3.1\_Lacos.dll
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Lacos\bin\Debug\netcoreapp3.1\_Lacos.pdb
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Lacos\obj\Debug\netcoreapp3.1\_Lacos.dll
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Lacos\obj\Debug\netcoreapp3.1\_Lacos.pdb
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Lacos\obj\Debug\netcoreapp3.1\_Lacos.genruntimeconfig.cache
